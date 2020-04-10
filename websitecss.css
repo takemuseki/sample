@@ -1,0 +1,52 @@
+.main {
+  height: 1100px;
+  width: 700px;
+  text-align: center;
+}
+
+
+
+.photo1 {
+  height: 300px;
+}
+
+.photo1 img {
+  height: 300px;
+  width: 300px;
+}
+
+.text {
+  height: 300px;
+}
+
+.text h2 {
+  color: red;
+}
+
+
+
+.names {
+  float: left;
+  display: inline;
+}
+
+.author {
+  float: left;
+  display: inline;
+}
+
+.photo2 {
+  height: 400px;
+
+}
+
+.photo2 img {
+  width: 600px;
+  height: 400px;
+}
+
+footer {
+  height: 30px;
+  width: 700px;
+  text-align: center;
+}
